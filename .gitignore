@@ -42,6 +42,19 @@
 *.idb
 *.pdb
 
+# Editors and IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
